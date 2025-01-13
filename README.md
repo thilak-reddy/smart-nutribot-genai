@@ -36,3 +36,20 @@ Before using this app, ensure you have the following installed and configured:
    ```bash
    streamlit run app.py
    ```
+## How to Use
+
+1. **Upload an Image**:
+   - Upload an image of your meal using the file uploader.
+   - Supported formats: `.jpg`, `.jpeg`, `.png`.
+
+2. **Enter Health Conditions**:
+   - Optionally, enter specific health conditions (e.g., diabetes, hypertension) in the text input field.
+
+3. **Get Calorie Analysis**:
+   - Click the **“Tell me the total calories”** button to receive a detailed calorie breakdown of the food items in the uploaded image.
+
+4. **View Recommendations**:
+   - If health conditions are provided, the app will generate specific recommendations, highlighting:
+     - Foods to avoid or limit
+     - Healthier alternatives
+
