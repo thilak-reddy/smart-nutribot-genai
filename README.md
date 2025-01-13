@@ -1,4 +1,4 @@
-# Health Management App - Smart Nutribot
+# Smart NutriBot: A Calorie & Nutrient Tracking Application
 
 ## Overview
 
